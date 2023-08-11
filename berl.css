@@ -38,92 +38,92 @@ ul {
 /* COLORS */
 
 .color-white {
-  color: var(--white-color);
+  color: var(--white-color) !important;
 }
 
 .color-berl {
-  color: var(--berl-color);
+  color: var(--berl-color) !important;
 }
 
 .color-black {
-  color: var(--black-color);
+  color: var(--black-color) !important;
 }
 
 .color-gray {
-  color: var(--gray-color);
+  color: var(--gray-color) !important;
 }
 
 .color-red {
-  color: var(--red-color);
+  color: var(--red-color) !important ;
 }
 
 .color-green {
-  color: var(--green-color);
+  color: var(--green-color) !important;
 }
 
 .color-yellow {
-  color: var(--yellow-color);
+  color: var(--yellow-color) !important;
 }
 
 .color-blue {
-  color: var(--blue-color);
+  color: var(--blue-color) !important;
 }
 
 .color-purple {
-  color: var(--purple-color);
+  color: var(--purple-color) !important;
 }
 
 .color-pink {
-  color: var(--pink-color);
+  color: var(--pink-color) !important;
 }
 .color-aqua {
-  color: var(--aqua-color);
+  color: var(--aqua-color) !important;
 }
 
 /* COLORS END ---------- */
 
 /* BACKGROUND COLORS */
 .bgcolor-white {
-  background-color: var(--white-color);
+  background-color: var(--white-color) !important;
 }
 
 .bgcolor-berl {
-  background-color: var(--berl-color);
+  background-color: var(--berl-color) !important;
 }
 
 .bgcolor-black {
-  background-color: var(--black-color);
+  background-color: var(--black-color) !important;
 }
 
 .bgcolor-gray {
-  background-color: var(--gray-color);
+  background-color: var(--gray-color) !important;
 }
 
 .bgcolor-red {
-  background-color: var(--red-color);
+  background-color: var(--red-color) !important;
 }
 
 .bgcolor-green {
-  background-color: var(--green-color);
+  background-color: var(--green-color) !important;
 }
 
 .bgcolor-yellow {
-  background-color: var(--yellow-color);
+  background-color: var(--yellow-color) !important;
 }
 
 .bgcolor-blue {
-  background-color: var(--blue-color);
+  background-color: var(--blue-color) !important;
 }
 
 .bgcolor-purple {
-  background-color: var(--purple-color);
+  background-color: var(--purple-color) !important;
 }
 
 .bgcolor-pink {
-  background-color: var(--pink-color);
+  background-color: var(--pink-color) !important;
 }
 .color-aqua {
-  background-color: var(--aqua-color);
+  background-color: var(--aqua-color) !important;
 }
 /* BACKGROUND COLORS END---------- */
 
@@ -549,7 +549,7 @@ ul {
   border: none;
   cursor: pointer;
   padding: 10px 20px;
-  border-radius: 5px;
+  border-radius: 2px;
 }
 
 .button-red {
