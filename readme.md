@@ -1,18 +1,11 @@
 # BerlCSS - Modern CSS Library (Under Development)
 
-![BerlCSS Logo](logo.png)
+![BerlCSS Logo](https://cdn.discordapp.com/attachments/1028745287180750998/1139519261388329021/Untitled-2.png)
 
 ## About BerlCSS
 
 Welcome to BerlCSS, a modern CSS library designed to simplify web development and enhance the visual appeal of your projects. BerlCSS is currently in the early stages of development and aims to provide a collection of styling components to expedite your web design process.
 
-## Features
-
-- **Responsive Design**: BerlCSS will be designed to create responsive and adaptive layouts that look great on various devices and screen sizes.
-
-- **Component Library**: Aims to offer a collection of reusable and customizable UI components, such as buttons, cards, navigation bars, and more.
-
-- **Modern Aesthetics**: BerlCSS will provide a clean and contemporary design language, enabling you to create sleek and professional-looking websites.
 
 ## Installation
 
@@ -20,9 +13,9 @@ To use BerlCSS in your project once it's ready, follow these steps:
 
 1. Download the BerlCSS files from the [GitHub repository](https://github.com/your-username/berlcss) or use with JsDelivr CDN Network. (Link will be updated upon release).
 
-```
-
-```
+   ```html
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/WoXy-Sensei/berlCSS@main/berl.css>
+   ```
 
 2. Include the BerlCSS stylesheet in the `<head>` section of your HTML file:
    ```html
