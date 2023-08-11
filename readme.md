@@ -19,7 +19,7 @@ To use BerlCSS in your project once it's ready, follow these steps:
 
 2. Include the BerlCSS stylesheet in the `<head>` section of your HTML file:
    ```html
-   <link rel="stylesheet" href="path/to/berlcss.css">
+   <link rel="stylesheet" href="path/to/berl.css">
    ```
 
 3. For detailed information on how to use BerlCSS (once it's ready) and a list of available components and classes, check out the Documentation folder.
