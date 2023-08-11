@@ -14,7 +14,7 @@ To use BerlCSS in your project once it's ready, follow these steps:
 1. Download the BerlCSS files from the [GitHub repository](https://github.com/WoXy-Sensei/berlCSS) or use with JsDelivr CDN Network. (Link will be updated upon release).
 
    ```html
-   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/WoXy-Sensei/berlCSS@main/berl.css>
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/WoXy-Sensei/berlCSS@1.0.0/berl.css">
    ```
 
 2. Include the BerlCSS stylesheet in the `<head>` section of your HTML file:
