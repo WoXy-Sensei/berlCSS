@@ -225,11 +225,6 @@ p{line-height:25px;color:#5e5e5e;}
 .card .card-body .buttons .button{flex:1;}
 .card.hover:hover{outline:4px rgb(208,208,208) solid;cursor:pointer;}
 /*CARD END-------------*/
-/*SECTIONS*/
-.section{display:flex;margin-top:10px;margin-bottom:10px;align-items:center;}
-.section .image{flex:1;width:500px;}
-.section .content{flex:1;margin:10px;padding:30px;}
-/*SECTION END---------*/
 /*BADGES*/
 .badge{display:inline;padding:5px;border-radius:3px;font-weight:bold;color:white;background-color:var(--gray-color);}
 .badge-red{background-color:var(--red-color)!important;}
