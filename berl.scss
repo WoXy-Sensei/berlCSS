@@ -794,8 +794,8 @@ p {
 	cursor: not-allowed !important;
 }
 .disabled {
-	cursor: not-allowed;
-	opacity: 0.6;
+	cursor: not-allowed !important;
+	opacity: 0.6 !important;
 }
 .no-transition {
 	transition: none !important;

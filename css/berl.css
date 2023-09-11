@@ -964,8 +964,8 @@ p {
 }
 
 .disabled {
-  cursor: not-allowed;
-  opacity: 0.6;
+  cursor: not-allowed !important;
+  opacity: 0.6 !important;
 }
 
 .no-transition {
@@ -1023,4 +1023,4 @@ p {
   .container {
     max-width: 1320px;
   }
-}
+}/*# sourceMappingURL=berl.css.map */
